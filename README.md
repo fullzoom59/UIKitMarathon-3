@@ -1,4 +1,4 @@
-# Gradient View 
+# Linked Animation
 The screen has a square view and a slider. The view moves from left to right with rotation and zoom
 
 * The screen has a square view and a slider. The view moves from left to right with rotation and zoom
